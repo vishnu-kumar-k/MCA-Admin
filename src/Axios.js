@@ -2,6 +2,6 @@ import axios from "axios"
 
 export default axios.create(
     {
-        baseURL:"http://localhost:5050"
+        baseURL:"https://mca-3mwc.onrender.com/"
     }
 )
